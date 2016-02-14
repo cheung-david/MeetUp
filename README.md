@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Meet Up - Web App
 Features
 - Real time geolocation for the main user
@@ -15,3 +16,7 @@ How to use
 - Main user is a blue marker, click on markers to determine who the marker represents.
 - Leave group button removes you entirely from the group
 - Stop watching button disables updates for your location on the map.
+=======
+# MeetUp
+Real time geolocation and chatroom for a group of users
+>>>>>>> 61809da89bf90bf0adba62d504c6250239db2907
