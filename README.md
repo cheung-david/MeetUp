@@ -1,5 +1,5 @@
 Meet Up - Web App
-Real time geolocation and chatroom for a group of users
+Real time geolocation and chat room for a group of users. Great for meet ups!
 
 Features
 - Real time geolocation for the main user
