@@ -4,7 +4,7 @@
    header("Access-Control-Allow-Origin: *");
    //header("Content-Type: text/event-stream\n\n"); Used for Event Source method
    header("Content-Type: text/javascript; charset=utf-8");
-   include "../../config/config.php";
+   include "../config/config.php";
    $locations = [];
     
 

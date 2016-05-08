@@ -1,7 +1,7 @@
 <?php
 header("Content-Type: text/javascript; charset=utf-8");
    
-include "../../config/config.php";
+include "../config/config.php";
 
 class Comment{
     public function __construct($row){

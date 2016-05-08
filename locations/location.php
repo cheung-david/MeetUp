@@ -1,5 +1,5 @@
 <?php
-include "../../config/config.php";
+include "../config/config.php";
 
 // Retrieve position of user
 $lat = $_POST['lat']; 

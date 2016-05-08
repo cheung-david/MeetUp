@@ -1,6 +1,6 @@
 <?php 
     //session_start();
-    include "../../config/config.php";
+    include "../config/config.php";
 
     function leaveGroup(){
         global $connection;

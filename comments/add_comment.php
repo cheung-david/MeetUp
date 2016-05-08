@@ -1,5 +1,5 @@
 <?php
-include "../../config/config.php";
+include "../config/config.php";
 
 $comment = $_POST['comment'];
 $comment = mysqli_real_escape_string($connection, $comment);
