@@ -3,7 +3,7 @@
     $servername = $cleardb_url["host"]; 
     $username = $cleardb_url["user"]; 
     $password = $cleardb_url["pass"]; 
-    $database = "letsmeet";
+    $database = substr($cleardb_url["path"], 1) + "letsmeet";
     $dbport = 3306;
 
     // Create connection
