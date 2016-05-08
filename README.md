@@ -1,6 +1,8 @@
 Meet Up - Web App
 Real time geolocation and chat room for a group of users. Great for meet ups!
 
+https://groupmeetup.herokuapp.com/join.php
+
 Features
 - Real time geolocation for the main user
 - Real time geolocation for a group of users
